@@ -15,8 +15,6 @@ boolean printIfPalindrome (String s){
     return false;
   }
   
-  
-  
 }
 
 
