@@ -12,7 +12,7 @@ String printPartOfWord(String s){
   String ss1 = s.substring(0);
   String ss2 = s.substring(0,1); 
   String ss3 = s.substring(1,5);
-   
+  return s;
 }
 
 

@@ -1,4 +1,4 @@
-
+/*
 int num = 100;
 int i = num;
 
@@ -14,6 +14,10 @@ void divisible (int num){
       
   }
 }
+*/
+
+
+
 
 
 
